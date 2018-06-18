@@ -1,0 +1,10 @@
+page-vocabulario {
+  .texto {
+    font-weight: bold;
+    margin-right: 20px;
+  }
+
+  .texto::after {
+    content: ":";
+  }
+}

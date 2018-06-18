@@ -1,6 +1,6 @@
 {
   "name": "bruggeboardgame",
-  "app_id": "",
+  "app_id": "e72b31c7",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
